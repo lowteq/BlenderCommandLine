@@ -1,2 +1,4 @@
-# BlenderCommandLine
-Unity上でBlenderを呼び出しUnity上のオブジェクトを操作する　BlenderCommandLine in UnityPlugin
+# BlenderCommandLine in UnityPlugin
+Unity上でBlenderを呼び出しUnity上のオブジェクトを操作する
+
+v0.0.1　既存のproject上のfbxファイルに対してのみ実行可能
